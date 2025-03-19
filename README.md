@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Watcharapol Yotadee</h1>
-<h3 align="center">A Passionate Software Developer & Cloud Engineer</h3>
+<h3 align="center">A Passionate Innovation Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/watcharapolyotadee" target="_blank">
@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working as a **Cloud & DevOps Engineer**
-- 🌱 I’m learning **Kubernetes, Cybersecurity, and Cloud Security**
-- ⚡ Fun fact: I love **Pentesting & Building Scalable Systems**
+- 🔭 I’m currently working as a **Innovation Engineer**
+- 🌱 I’m learning **Cybersecurity**
+- ⚡ Fun fact: I love **Security Architecture & Design**
 - 📫 Reach me at **watcharapolyotadee@gmail.com**
 
 ---
@@ -84,7 +84,7 @@
 ---
 
 ### 🤝 Let's Connect!
-💬 Ask me about **Cloud, DevOps, and Security**  
+💬 Ask me about **Security Architecture & Design**  
 📩 Email: **watcharapolyotadee@gmail.com**
 🔗 [LinkedIn](https://linkedin.com/in/watcharapolyotadee)
 
